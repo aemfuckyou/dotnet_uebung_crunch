@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Crunch_the_Numbers\Crunch_the_Numbers\bin\Debug\net6.0\Crunch_the_Numbers.exe
+C:\Users\HP\source\repos\Crunch_the_Numbers\Crunch_the_Numbers\bin\Debug\net6.0\Crunch_the_Numbers.deps.json
+C:\Users\HP\source\repos\Crunch_the_Numbers\Crunch_the_Numbers\bin\Debug\net6.0\Crunch_the_Numbers.runtimeconfig.json
+C:\Users\HP\source\repos\Crunch_the_Numbers\Crunch_the_Numbers\bin\Debug\net6.0\Crunch_the_Numbers.dll
+C:\Users\HP\source\repos\Crunch_the_Numbers\Crunch_the_Numbers\bin\Debug\net6.0\Crunch_the_Numbers.pdb
+C:\Users\HP\source\repos\Crunch_the_Numbers\Crunch_the_Numbers\obj\Debug\net6.0\Crunch_the_Numbers.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Crunch_the_Numbers\Crunch_the_Numbers\obj\Debug\net6.0\Crunch_the_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Crunch_the_Numbers\Crunch_the_Numbers\obj\Debug\net6.0\Crunch_the_Numbers.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Crunch_the_Numbers\Crunch_the_Numbers\obj\Debug\net6.0\Crunch_the_Numbers.AssemblyInfo.cs
+C:\Users\HP\source\repos\Crunch_the_Numbers\Crunch_the_Numbers\obj\Debug\net6.0\Crunch_the_Numbers.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Crunch_the_Numbers\Crunch_the_Numbers\obj\Debug\net6.0\Crunch_the_Numbers.dll
+C:\Users\HP\source\repos\Crunch_the_Numbers\Crunch_the_Numbers\obj\Debug\net6.0\refint\Crunch_the_Numbers.dll
+C:\Users\HP\source\repos\Crunch_the_Numbers\Crunch_the_Numbers\obj\Debug\net6.0\Crunch_the_Numbers.pdb
+C:\Users\HP\source\repos\Crunch_the_Numbers\Crunch_the_Numbers\obj\Debug\net6.0\Crunch_the_Numbers.genruntimeconfig.cache
+C:\Users\HP\source\repos\Crunch_the_Numbers\Crunch_the_Numbers\obj\Debug\net6.0\ref\Crunch_the_Numbers.dll
